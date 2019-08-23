@@ -9,5 +9,5 @@ We have recently begun to translate RetroArch’s description into several langu
 
 ![promo](Media/main/promo.png)
 ![menus](Media/main/menus.png)
-![how to steps](Media/main/how-to.png)
-![cross platform](Media/main/cross-platform.png)
+![how to steps](Media/main/how-to.jpg)
+![cross platform](Media/main/cross-platform.jpg)
