@@ -1,4 +1,4 @@
-![promo](Media/main/promo.png)
+![promo](../Media/main/promo.png)
 ![menus](Media/main/menus.png)
 ```Your menu, your look! You can switch between menu drivers and configure them as you like!```
 ![how to steps](Media/main/how-to.jpg)
