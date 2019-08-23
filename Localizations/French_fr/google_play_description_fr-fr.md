@@ -1,7 +1,7 @@
 ![promo](media/main/promo.png)
 ![menus](media/main/menus.png)
 ```Votre menu, votre style!
-Vous pouvez changer entre différents menus et les configurer comme vous le souhaitez
+Vous pouvez changer entre différents menus et les configurer comme vous le souhaitez```
 
 Le menu à gauche est "XMB" avec le mode "Handheld". Le menu à droite est Ozone, avec la barre de navigation réduite.```
 ![how to steps](media/main/how-to.png)
