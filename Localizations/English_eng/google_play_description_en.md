@@ -1,10 +1,11 @@
-![promo](media/main/promo.png)
-![menus](media/main/menus.png)
+![promo](Media/main/promo.png)
+![menus](Media/main/menus.png)
 ```Your menu, your look! You can switch between menu drivers and configure them as you like!```
-![how to steps](media/main/how-to.png)
+![how to steps](Media/main/how-to.jpg)
 ```1.Select supported corein Load Core 2.Locate your content in Load Content 3.Have fun!```
-![cross platform](media/main/cross-platform.png)
+![cross platform](Media/main/cross-platform.jpg)
 ```Cross-Platform Support! Play as you like on the platform you want!```
+
 RetroArch is an open-source project that makes use of a powerful development interface called Libretro. Libretro is an interface that allows you to make cross-platform applications that can use rich features such as OpenGL, cross-platform camera support, location support, and more in the future.
 
 It comes with its own built-in collection of applications to provide you with a 'one-stop-shop' for entertainment.
