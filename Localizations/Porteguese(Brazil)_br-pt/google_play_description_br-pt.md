@@ -6,47 +6,47 @@
 ![cross platform](media/main/cross-platform.png)
 ```Cross-Platform Support! Play as you like on the platform you want!```
 
-RetroArch is an open-source project that makes use of a powerful development interface called Libretro. Libretro is an interface that allows you to make cross-platform applications that can use rich features such as OpenGL, cross-platform camera support, location support, and more in the future.
+RetroArch é um projeto de código aberto que usa uma poderosa interface chamada Libretro. A Libretro permite que você faça aplicações para multiplas plataformas usando OpenGL, câmeras, localização e outras novas continuam sendo adicionadas.
 
-It comes with its own built-in collection of applications to provide you with a 'one-stop-shop' for entertainment.
+Ele vem com uma coleção inclusa de aplicações que fornecem um local completo para entretenimento.
 
-Libretro and RetroArch are perfectly suited for creating games, emulators and multimedia programs. If you want to learn more, go to our website (listed below).
+A Libretro e o RetroArch são perfeitos para criar jogos, emuladores e programas multimedia. Se você quiser saber mais, entre no nosso website (listado abaixo).
 
-IMPORTANT!!!
-RetroArch is a multi-versatile program, that means that in order for it to do anything, you need modular programs that we call 'cores'. These cores DO NOT COME OUT OF THE BOX. You need to go to "Online Updater -> Core Updater" from within the app to download them.
+Importante!!!
+O RetroArch é um programa versátil, o que significa que para fazer qualquer coisa nele, você precisa de módulos que são chamados "cores". Esses "cores" não vêm inclusos imediatamente. Você precisa ir em "Online Updater -> Core Updater" dentro do aplicativo para baixar os que quiser.
 
-FEATURES:
-* Eye-candy menus to choose from!
-* Scan files / directories and add them to game system collections!
-* View database information about each game once added to a collection!
-* Download programs ('cores') online
-* Update everything!
-* Download Game & Watch games and play them with our exclusive Game & Watch emulator!
-* Built-in input remapping
-* Ability to remap controls
-* Ability to enter and load cheats
-* Multi-language support!
-* Over 80+ programs('cores') now and counting!
-* Play multiplayer with NetPlay!
-* Take screenshots, save states and more!
+Características:
+* Vários menus com gráficos bonitos para você escolher!
+* Busque em arquivos/diretórios e adicione eles para a coleção de sistemas!
+* Veja informações no banco de dados sobre cada jogo que foi adicionado a uma coleção!
+* Baixe programas ('cores') online
+* Atualize tudo!
+* Baixe jogos do Game & Watch e jogue eles com o nosso emulador exclusivo!
+* Remapeamento de dispositivos de input incluso!
+* Possibilidade de remapear controles
+* Possibilidade de usar códigos de trapaça
+* Multiplas linguas
+* Mais de 80+ cores disponiveis e contando!
+* Jogue jogos multiplayer com NetPlay!
+* Tire fotos da tela, salve o estado dos jogos e mais
 
-* No DRM
-* No restrictions on usage
-* Open-source
-* No push ads
-* No spying
-* No ads period
+* Sem DRM
+* Sem restrições ao uso
+* Código aberto
+* Sem propagandas via push
+* Sem espionar
+* Sem propagandas e ponto final
 
-Join us on discord for support and netplay matchmaking
+Entre no nosso canal no discord para obter ajuda e encontrar pessoas para jogar via netplay
 https://discord.gg/C4amCeV
 
-Visit our Youtube channel here for tutorials, news and development progress!
+Visite nosso canal no Youtube para tutoriais, noticias e atualizações sobre o desenvolvimento!
 https://www.youtube.com/user/libretro
 
-For info and help, see our documentation site -
+Para informação e ajuda, veja nossa documentação -
 https://docs.libretro.com/
 
-Visit our website!
+Visite nosso website!
 https://www.retroarch.com/
 
 www.libretro.com
